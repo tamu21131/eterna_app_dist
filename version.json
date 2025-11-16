@@ -1,5 +1,6 @@
 {
     "version": "0.0.999",
     "apk_url": "https://github.com/tamu21131/eterna_app_dist/releases/download/v0.0.999/app-release.apk",
-    "changelog": "アップデートテストリリース"
+    "changelog": "アップデートテストリリース\\n・改行テスト"
+
 }
