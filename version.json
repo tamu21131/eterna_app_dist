@@ -1,5 +1,5 @@
 {
-  "version": "0.0.5",
-  "apk_url": "https://github.com/tamu21131/eterna_app_dist/releases/download/v0.0.5/app-release.apk",
-  "changelog": "\n- changelog追加\n\n- changelog修正\n\n- changlogの自動更新\n\n- Merge commit 9e47ae87a7739e286a7b9843a0d7d0166ea460bb into feature-multi-schedules\n\n- Merge pull request [#8](https://github.com/tamu21131/eterna_app/issues/8) from tamu21131/feature-multi-schedules, Merge commit 9e47ae87a7739e286a7b9843a0d7d0166ea460bb into feature-…\n\n- Merge branch main of https://github.com/tamu21131/eterna_app\n\n- リリース時のchangelogに全てのバージョン来歴を残すようにした\n\n- Merge branch main of https://github.com/tamu21131/eterna_app\n\n- フロー修正\n\n- バージョンをpubspec.yamlから取得するようにした。（正規の方法）\n\n- リリースノートが空になる問題に対処\n\n- Googleカレンダーの複数の予定表を同期できるようにした\n\n- Merge commit ca0c554a4e4c1c5bd6017e2c26f779a2e3f07186\n\n- オンラインアップデート機能を実装\n\n- オンラインアップデート機能を実装\n\n- Merge branch feature_online_update of https://github.com/tamu21131/eterna_app into feature_online_update\n\n- 公開用リポジトリにコミット\n\n- Merge pull request [#1](https://github.com/tamu21131/eterna_app/issues/1) 1 from tamu21131/feature_online_update, オンラインアップデートに対応\n"
+  "version": "0.0.6",
+  "apk_url": "https://github.com/tamu21131/eterna_app_dist/releases/download/v0.0.6/app-release.apk",
+  "changelog": "\n- マージコメントはchangelogから除外するようにした\n"
 }
