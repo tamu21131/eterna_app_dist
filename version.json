@@ -1,5 +1,5 @@
 {
-  "version": "0.0.6",
-  "apk_url": "https://github.com/tamu21131/eterna_app_dist/releases/download/v0.0.6/app-release.apk",
-  "changelog": "\n- マージコメントはchangelogから除外するようにした\n"
+  "version": "0.1.0",
+  "apk_url": "https://github.com/tamu21131/eterna_app_dist/releases/download/v0.1.0/app-release.apk",
+  "changelog": "\n- FirmのOTAでの更新に対応, Firmバージョンを取得できるようにした\n\n- verup\n"
 }
